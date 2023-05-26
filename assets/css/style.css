@@ -21,7 +21,7 @@ a {
 }
 
 a:hover {
-  color: #d9ba85;
+  color: #e7ecd7;
   text-decoration: none;
 }
 
@@ -134,7 +134,7 @@ h6 {
 
 #topbar .contact-info i {
   font-style: normal;
-  color: #d9ba85;
+  color: #e7ecd7;
 }
 
 #topbar .contact-info i span {
@@ -276,7 +276,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #d9ba85;
+  color: #e7ecd7;
 }
 
 .navbar .dropdown ul {
@@ -566,7 +566,7 @@ h6 {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(205, 164, 94, 0.7);
+  border: 5px solid #e7ecd7;
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
@@ -745,7 +745,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  background: url("../img/ab-bakery.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
